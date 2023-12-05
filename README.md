@@ -10,5 +10,6 @@ The purpose of this study was to compare the performance of Pymaceuticals drug o
 - Clean the data for an accurate analysis.
 - Summarize statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tuimor volume for each drug regimen.
 
-  ![output](1.png).
+  ![output](1.png)
+
   
